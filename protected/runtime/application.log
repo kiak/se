@@ -1,0 +1,936 @@
+2012/08/21 03:39:47 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:40:52 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:40:53 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:41:23 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.components.bootstrap" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('ext.bootstrap.c...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:43:54 [error] [exception.CException] exception 'CException' with message 'Alias "extensions.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:343
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('extensions.boot...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:44:33 [error] [exception.CException] exception 'CException' with message 'Alias "extensions.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:343
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('extensions.boot...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:44:35 [error] [exception.CException] exception 'CException' with message 'Alias "extensions.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:343
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('extensions.boot...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:45:16 [error] [exception.CException] exception 'CException' with message 'Alias "extensions.bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:343
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(198): YiiBase::import('extensions.boot...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(387): YiiBase::createComponent(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(493): CModule->getComponent('bootstrap')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(146): CModule->preloadComponents()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(127): CApplication->__construct('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php(100): YiiBase::createApplication('CWebApplication', '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): YiiBase::createWebApplication('/Applications/X...')
+#7 {main}
+REQUEST_URI=/positive/site/index
+HTTP_REFERER=http://localhost/positive/site/index
+---
+2012/08/21 03:45:50 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[42000] [1049] Unknown database 'positive_db'' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(388): CDbConnection->init()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModule.php(104): CModule->getComponent('db')
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/gii/generators/crud/CrudCode.php(44): CModule->__get('db')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CFormModel.php(40): CrudCode->init()
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/gii/CCodeGenerator.php(154): CFormModel->__construct()
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/gii/CCodeGenerator.php(64): CCodeGenerator->prepare()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): CCodeGenerator->actionIndex()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('gii/bootstrap')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/positive/gii/bootstrap
+HTTP_REFERER=http://localhost/positive/gii/default/index
+---
+2012/08/21 07:29:06 [error] [exception.CException] exception 'CException' with message 'RegController cannot find the requested view "regp".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('regp', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(32): CController->render('regp', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/reg/p
+---
+2012/08/21 07:29:48 [error] [exception.CException] exception 'CException' with message 'RegController cannot find the requested view "regp".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('regp', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(32): CController->render('regp', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/reg/p
+---
+2012/08/21 07:29:50 [error] [exception.CException] exception 'CException' with message 'RegController cannot find the requested view "regp".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('regp', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(32): CController->render('regp', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/reg/p
+---
+2012/08/21 08:03:34 [error] [exception.CException] exception 'CException' with message 'Property "CSafeValidator.0" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:174
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/validators/CValidator.php(190): CComponent->__set('0', 'required')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModel.php(285): CValidator::createValidator('safe', Object(RegP), 'name, surname, ...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModel.php(259): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CModel.php(302): CModel->getValidators('name')
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/helpers/CHtml.php(1197): CModel->isAttributeRequired('name')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/widgets/CActiveForm.php(563): CHtml::activeLabelEx(Object(RegP), 'name', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/reg/p.php(19): CActiveForm->labelEx(Object(RegP), 'name')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('p', Array, true)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(52): CController->render('p', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#17 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#18 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#19 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/positive/reg/p
+---
+2012/08/21 08:06:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "ฟ้".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(271): CController->missingAction('??????')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('??????')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/??????')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/positive/reg/%E0%B8%9F%E0%B9%89
+---
+2012/08/21 08:16:25 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.BootHero" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(190): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(3): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 08:16:27 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.BootHero" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(190): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(3): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 08:18:03 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.BootHero" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWidgetFactory.php(147): YiiBase::import('bootstrap.widge...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(190): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(3): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 08:18:44 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.widgets.BootHero" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWidgetFactory.php(147): YiiBase::import('ext.bootstrap.w...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(190): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(5): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 08:18:45 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.widgets.BootHero" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/YiiBase.php:318
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWidgetFactory.php(147): YiiBase::import('ext.bootstrap.w...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(190): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(5): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 08:27:10 [error] [exception.CException] exception 'CException' with message 'Property "BootHero.url" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:174
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWidgetFactory.php(162): CComponent->__set('url', 'reg/p')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(190): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(5): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 08:27:48 [error] [exception.CException] exception 'CException' with message 'SiteController contains improperly nested widget tags in its view "/Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php". A BootHero widget does not have an endWidget() call.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php:102
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/gii/bootstrap
+---
+2012/08/21 15:43:18 [error] [php] Missing argument 1 for CController::createUrl(), called in /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php on line 6 and defined (/Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:960)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): SiteController->renderInternal()
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): SiteController->renderFile()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): SiteController->renderPartial()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): SiteController->render()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams()
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): SiteController->runAction()
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): SiteController->run()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CWebApplication->run()
+REQUEST_URI=/positive/
+in /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php (6)
+in /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php (32)
+in /Applications/XAMPP/xamppfiles/htdocs/positive/index.php (13)
+2012/08/21 15:43:37 [error] [exception.CException] exception 'CException' with message 'SiteController and its behaviors do not have a method or closure named "baseUrl".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('baseUrl', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(6): SiteController->baseUrl()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/21 15:43:54 [error] [exception.CException] exception 'CException' with message 'SiteController and its behaviors do not have a method or closure named "basedUrl".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('basedUrl', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(6): SiteController->basedUrl()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/21 15:57:30 [error] [exception.CException] exception 'CException' with message 'SiteController and its behaviors do not have a method or closure named "basedUrl".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('basedUrl', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(6): SiteController->basedUrl()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/21 16:01:45 [error] [exception.CException] exception 'CException' with message 'SiteController and its behaviors do not have a method or closure named "basedUrl".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('basedUrl', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/site/index.php(6): SiteController->basedUrl()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', NULL, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', NULL, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/positive/
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/21 16:53:59 [error] [exception.CException] exception 'CException' with message 'RegController and its behaviors do not have a method or closure named "renderparital".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('renderparital', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/reg/p.php(6): RegController->renderparital('word')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', Array, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('p', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(54): CController->render('p', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/positive/reg/p
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/21 16:54:00 [error] [exception.CException] exception 'CException' with message 'RegController and its behaviors do not have a method or closure named "renderparital".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('renderparital', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/reg/p.php(6): RegController->renderparital('word')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', Array, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(870): CBaseController->renderFile('/Applications/X...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('p', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(54): CController->render('p', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/positive/reg/p
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/21 17:04:55 [error] [exception.CException] exception 'CException' with message 'RegP and its behaviors do not have a method or closure named "getPK".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getPK', Array)
+#1 [internal function]: CActiveRecord->__call('getPK', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(50): RegP->getPK()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/positive/reg/p
+HTTP_REFERER=http://localhost/positive/reg/p
+---
+2012/08/21 17:06:24 [error] [exception.CException] exception 'CException' with message 'RegP and its behaviors do not have a method or closure named "getPK".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/db/ar/CActiveRecord.php(226): CComponent->__call('getPK', Array)
+#1 [internal function]: CActiveRecord->__call('getPK', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/RegController.php(50): RegP->getPK()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): RegController->actionP()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('reg/p')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/positive/reg/p
+HTTP_REFERER=http://localhost/positive/reg/p
+---
+2012/08/21 17:58:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/auth/CAccessControlFilter.php:170
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/auth/CAccessControlFilter.php(133): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(292): CFilterChain->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('admin/ad/index')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/positive/admin/ad/index
+HTTP_REFERER=http://localhost/positive/site/login
+---
+2012/08/21 18:00:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/admin/
+---
+2012/08/21 18:01:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/admin/
+---
+2012/08/21 18:08:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(271): CController->missingAction('admin')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('admin')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('admin/admin/ad')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/positive/admin/admin/ad
+HTTP_REFERER=http://localhost/positive/admin/
+---
+2012/08/21 18:09:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "p".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:484
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(271): CController->missingAction('p')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('p')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('admin/p')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/positive/admin/p
+HTTP_REFERER=http://localhost/positive/admin/
+---
+2012/08/21 18:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('adminindex')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/admin/
+---
+2012/08/21 18:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('adminindex')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:12:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Adminindex/index".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:12:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Adminindex/index".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:12:33 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "index".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('index')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:13:46 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "view.admin.adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('view.admin.admi...', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('view.admin.admi...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:13:48 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "view.admin.adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('view.admin.admi...', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('view.admin.admi...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:14:04 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "views.admin.adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('views.admin.adm...', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('views.admin.adm...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:15:09 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('adminindex', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('adminindex')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:15:10 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('adminindex', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('adminindex')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/21 18:15:11 [error] [exception.CException] exception 'CException' with message 'AdminindexController cannot find the requested view "adminindex".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php:879
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(783): CController->renderPartial('adminindex', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/AdminindexController.php(7): CController->render('adminindex')
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): AdminindexController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('index')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('Adminindex/inde...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/positive/admin
+---
+2012/08/22 08:36:37 [error] [exception.CException] exception 'CException' with message 'Bootstrap and its behaviors do not have a method or closure named "registerCoreCss".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 [internal function]: CComponent->__call('registerCoreCss', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/layouts/main.php(17): Bootstrap->registerCoreCss()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', Array, true)
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/widgets/CContentDecorator.php(77): CBaseController->renderFile('/Applications/X...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/widgets/CContentDecorator.php(55): CContentDecorator->decorate('<div id="conten...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/widgets/COutputProcessor.php(45): CContentDecorator->processOutput('<div id="conten...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(207): COutputProcessor->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/views/layouts/column1.php(6): CBaseController->endContent()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(127): require('/Applications/X...')
+#11 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CBaseController.php(96): CBaseController->renderInternal('/Applications/X...', Array, true)
+#12 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(785): CBaseController->renderFile('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/SiteController.php(32): CController->render('index')
+#14 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#15 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#17 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#19 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#20 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#21 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/positive/
+---
+2012/08/22 08:39:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:39:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:40:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:40:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:40:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:41:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:41:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 08:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/reg/p
+---
+2012/08/22 08:49:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/reg/p
+---
+2012/08/22 08:58:02 [error] [exception.CException] exception 'CException' with message 'RegP and its behaviors do not have a method or closure named "countAll".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CComponent.php:266
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/db/ar/CActiveRecord.php(226): CComponent->__call('countAll', Array)
+#1 [internal function]: CActiveRecord->__call('countAll', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/protected/controllers/StatController.php(7): RegP->countAll()
+#3 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/actions/CInlineAction.php(50): StatController->actionIndex()
+#4 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(283): CController->run('')
+#8 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('stat')
+#9 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/positive/stat
+---
+2012/08/22 09:12:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:21:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:23:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:26:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:26:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:26:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:26:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/
+---
+2012/08/22 09:32:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/e965d8f2/css/bootstrap-yii.css".' in /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/e965d8f2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/positive/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/positive/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/positive/assets/e965d8f2/css/bootstrap-yii.css
+HTTP_REFERER=http://localhost/positive/reg/ad
+---
