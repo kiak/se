@@ -4,17 +4,6 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="language" content="en" />
-
-	<!-- blueprint CSS framework -->
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
-	<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/ie.css" media="screen, projection" />
-	<![endif]-->
-
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
-	 
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
 
@@ -23,14 +12,42 @@
 <div class="container" id="page">
 
 	<div id="header">
-		<div id="logo"><?php echo CHtml::encode(Yii::app()->name); ?></div>
+		<?php $this->widget('bootstrap.widgets.TbNavbar', array(
+    'type'=>'null', // null or 'inverse'
+    'brand'=>'MBI shop',
+    'brandUrl'=>'#',
+    'collapse'=>true, // requires bootstrap-responsive.css
+    'items'=>array(
+        array(
+            'class'=>'bootstrap.widgets.TbMenu',
+            'items'=>array(
+                array('label'=>'Home', 'url'=>'#', 'active'=>true),
+                array('label'=>'Profile', 'url'=>'#'),
+                 
+            ),
+        ),
+        array(
+            'class'=>'bootstrap.widgets.TbMenu',
+            'htmlOptions'=>array('class'=>'pull-right'),
+            'items'=>array(
+                array('label'=>'Cart(2)', 'url'=>'#', 'items'=>array(
+                    array('label'=>'View', 'url'=>'#'), 
+                    array('label'=>'Check Out', 'url'=>'#'),
+                )),
+            ),
+        ),
+        '<form class="navbar-search pull-right" action=""><input type="text" class="search-query span2" placeholder="Search"></form>',
+        
+    ),
+)); ?>
+
 	</div><!-- header -->
 
 	<div id="mainmenu">
  
 	</div><!-- mainmenu -->
 	<?php if(isset($this->breadcrumbs)):?>
-		<?php $this->widget('zii.widgets.CBreadcrumbs', array(
+		<?php $this->widget('bootstrap.widgets.TbBreadcrumbs', array(
 			'links'=>$this->breadcrumbs,
 		)); ?><!-- breadcrumbs -->
 	<?php endif?>
